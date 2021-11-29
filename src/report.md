@@ -7,11 +7,7 @@
 На тестирование затрачено: один час
 
 В результате тестирования выявлены следующие дефекты:
-<<<<<<< HEAD
 [issue](https://github.com/KonstaMonte/Credit-Card-Number-Validator/issues/1)
-=======
-* https://github.com/KonstaMonte/Credit-Card-Number-Validator/issues/1
->>>>>>> a5b5cbe91fba47c66e5dff6ccf98fa2206647349
 
 ## Описание процесса тестирования
 
